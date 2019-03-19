@@ -1,0 +1,26 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+nav{
+	background-color: lightgrey;
+	text-align: center;
+}
+nav ul{
+	/*code*/
+}
+nav ul li{
+	display: inline-block;
+	padding: 10px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+nav ul li a{
+	text-decoration: none;
+	color: black;
+}
+footer{
+	background-color: lightgrey;
+	text-align: center;
+
+}
