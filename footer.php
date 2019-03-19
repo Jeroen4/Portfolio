@@ -1,1 +1,1 @@
-<footer><p>&copy; Jeroen Faasse - 2019</p></footer>
+<footer class="col-lg-10 offset-1"><p>&copy; Jeroen Faasse - 2019</p></footer>
